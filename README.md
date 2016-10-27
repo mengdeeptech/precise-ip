@@ -5,7 +5,7 @@ Get the precise position for your ip
 
 # alfredworkflow
 
-* Apple for your AK (http://lbsyun.baidu.com/apiconsole/key?application=key)
+* Apply for your AK (http://lbsyun.baidu.com/apiconsole/key?application=key)
 
 * Click the download buttons below
 
